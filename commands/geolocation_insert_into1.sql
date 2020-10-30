@@ -1,0 +1,1 @@
+INSERT INTO geolocation (Closest_Urban_City) SELECT Closest_Urban_City FROM geolocation_updated;

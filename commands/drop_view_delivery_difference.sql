@@ -1,0 +1,1 @@
+DROP VIEW delivery_difference

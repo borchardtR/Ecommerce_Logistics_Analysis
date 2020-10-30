@@ -1,0 +1,2 @@
+ALTER TABLE geolocation
+ADD COLUMN Urban [INTEGER];

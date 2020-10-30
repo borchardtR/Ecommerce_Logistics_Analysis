@@ -1,0 +1,1 @@
+ALTER TABLE customers ADD FOREIGN KEY ('customer_zip_code_prefix') REFERENCES geolocation_updated('geolocation_zip_code');
